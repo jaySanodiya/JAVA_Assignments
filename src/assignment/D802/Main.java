@@ -7,7 +7,6 @@ public class Main {
     public int[] findAndReturnPrimeNumbers(int[] inputArray){
         Array[] array = new Array[8];
 
-
     }
 
     public static void main(String[] args) {
