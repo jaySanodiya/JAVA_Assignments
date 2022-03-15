@@ -26,6 +26,7 @@ public class Main {
         }
         else if(hotel instanceof TajHotel){
             TajHotel h1 = (TajHotel)hotel;
+
             h1.welcomeDrink();
             hotel.chickenBiryani();
             hotel.masalaDosa();
